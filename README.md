@@ -1,3 +1,9 @@
+****************************
+Release version NIST CSF 2.0 
+****************************
+Original Publication: https://johnmasserini.com/2024/03/04/updated-nist-csf-tool-released/
+****************************
+
 This worksheet is the culmination of over a decade of measuring the maturity of various security programs.  
 This current iteration is founded on the 2024 NIST Cybersecurity Framework (CSF) 2.0 with the addition of maturity levels for both policy and practice.
 
