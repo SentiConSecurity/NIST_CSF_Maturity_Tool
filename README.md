@@ -1,8 +1,10 @@
 # NIST CSF Maturity Toolkit
 ****************************
-Original Publication: [New version of the NIST CSF 2.0 released](https://johnmasserini.com/2024/03/04/updated-nist-csf-tool-released/)
-****************************
-Check the [Releases](https://github.com/SentiConSecurity/NIST_CSF_Tool/releases) section for file downloads.
+> [!NOTE]
+> To read the original publication: [New version of the NIST CSF 2.0 released](https://johnmasserini.com/2024/03/04/updated-nist-csf-tool-released/)
+
+> [!TIP]
+> Check the [Releases](https://github.com/SentiConSecurity/NIST_CSF_Tool/releases) section for file downloads.
 ****************************
 
 This worksheet is the culmination of over a decade of measuring the maturity of various security programs.  
