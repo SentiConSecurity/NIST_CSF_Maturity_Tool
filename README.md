@@ -17,7 +17,7 @@ The goal of the Maturity Level descriptions is to provide some guidance around w
 
 Finally, this is in no way intended to infringe upon any work the good folks over at NIST have done.  All of the questions and associated information on the ‘NIST CSF Details’ tab is completely owned by NIST. Certain cells are protected so the user doesn't accidentally step on a formula.  
 
-NIST CSF Framework v1.1 (February, 2024) - https://www.nist.gov/cyberframework
+NIST CSF Framework v2.0 (February, 2024) - https://www.nist.gov/cyberframework
 
 NIST Privacy Framework 1.0 (January, 2020) - https://www.nist.gov/privacy-framework
 
