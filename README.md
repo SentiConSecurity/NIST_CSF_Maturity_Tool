@@ -24,4 +24,4 @@ NIST Privacy Framework 1.0 (January, 2020) - https://www.nist.gov/privacy-framew
 I hope you find this useful.
 
 
-![CSF20_Radar_Medium](https://github.com/user-attachments/assets/e28b6b86-dc9e-447a-b959-9ed9ef79ed2f)![NIST-CSF2 0-Summary](https://github.com/user-attachments/assets/22d03f9e-b5fb-4b08-b1c5-94ffc4879b14)
+![CSF_2.0_Radar](https://github.com/user-attachments/assets/ec21f41e-d858-4c49-9368-7c81c2f84e3e)![NIST-CSF2 0-Summary](https://github.com/user-attachments/assets/22d03f9e-b5fb-4b08-b1c5-94ffc4879b14)
